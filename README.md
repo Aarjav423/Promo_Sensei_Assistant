@@ -43,3 +43,4 @@ Promo Sensei is a Slack-based or web-based assistant that helps users find curre
 - **Retrieval-Augmented Generation (RAG):** Uses FAISS for semantic search over offers, then LLM (OpenAI via OpenRouter) for natural language answers.
 - **Extensible Scraping:** Each brand/site can have its own scraping function.
 - **Multi-Interface:** Supports both web and Slack interfaces for user queries.
+demo link: https://drive.google.com/file/d/1ZPl6gZYNSLgtBYkYA4Mu_3qTKvBLiKk0/view?usp=sharing
