@@ -1,0 +1,202 @@
+[
+  {
+    "title": "Flat 50% on Lipsticks",
+    "description": "Get 50% off on all Nykaa cosmetics",
+    "brand": "Nykaa",
+    "products": ["Lipstick", "Beauty"],
+    "discount": "Flat 50%",
+    "conditions": "Members only",
+    "expiry": "2025-06-30",
+    "promotion_channel": ["Email", "WhatsApp"]
+  },
+  {
+    "title": "Buy 1 Get 1 Free",
+    "description": "On selected sportswear",
+    "brand": "Puma",
+    "products": ["T-shirts", "Track Pants"],
+    "discount": "BOGO",
+    "conditions": "Only on weekdays",
+    "expiry": "2025-07-10",
+    "promotion_channel": ["Facebook", "App"]
+  },
+  {
+    "title": "Electronics Bonanza",
+    "description": "Up to \u20b910,000 off on phones",
+    "brand": "Flipkart",
+    "products": ["Mobiles", "Tablets"],
+    "discount": "Up to \u20b910,000 off",
+    "conditions": "Limited time",
+    "expiry": "2025-06-01",
+    "promotion_channel": ["Instagram", "SMS"]
+  },
+  {
+    "title": "Summer Fashion Sale",
+    "description": "Flat 40% off on Levi’s summer collection",
+    "brand": "Levi's",
+    "products": ["Shirts", "Shorts"],
+    "discount": "Flat 40%",
+    "conditions": "Min. spend ₹999",
+    "expiry": "2025-07-05",
+    "promotion_channel": ["Facebook", "YouTube"]
+  },
+  {
+    "title": "Mega Grocery Days",
+    "description": "Save ₹500 on groceries above ₹2000",
+    "brand": "BigBasket",
+    "products": ["Groceries", "Household"],
+    "discount": "₹500 Off",
+    "conditions": "Valid once per user",
+    "expiry": "2025-06-15",
+    "promotion_channel": ["SMS", "Push Notification"]
+  },
+  {
+    "title": "Back to School Essentials",
+    "description": "25% off on school bags and stationery",
+    "brand": "Amazon",
+    "products": ["School Bags", "Stationery"],
+    "discount": "25% off",
+    "conditions": "Only for Prime members",
+    "expiry": "2025-06-20",
+    "promotion_channel": ["Email", "App"]
+  },
+  {
+    "title": "Flat ₹300 Cashback",
+    "description": "Recharge your DTH and get ₹300 back",
+    "brand": "Paytm",
+    "products": ["DTH Recharge"],
+    "discount": "₹300 Cashback",
+    "conditions": "For new users only",
+    "expiry": "2025-06-10",
+    "promotion_channel": ["App", "WhatsApp"]
+  },
+  {
+    "title": "Weekend Travel Deals",
+    "description": "20% off on domestic flights",
+    "brand": "EaseMyTrip",
+    "products": ["Flight Tickets"],
+    "discount": "20% off",
+    "conditions": "Only for Sat-Sun bookings",
+    "expiry": "2025-06-30",
+    "promotion_channel": ["Email", "Facebook"]
+  },
+  {
+    "title": "Free Movie Ticket",
+    "description": "Buy 1 ticket and get 1 free on BookMyShow",
+    "brand": "BookMyShow",
+    "products": ["Movie Tickets"],
+    "discount": "BOGO",
+    "conditions": "Offer valid on select banks",
+    "expiry": "2025-07-15",
+    "promotion_channel": ["SMS", "App"]
+  },
+  {
+    "title": "Monsoon Skin Care Sale",
+    "description": "30% off on selected skin care brands",
+    "brand": "Mamaearth",
+    "products": ["Face Wash", "Moisturizer"],
+    "discount": "30% off",
+    "conditions": "No coupon required",
+    "expiry": "2025-07-01",
+    "promotion_channel": ["Instagram", "Email"]
+  },
+  {
+    "title": "Monsoon Footwear Sale",
+    "description": "Get up to 60% off on Bata rainwear shoes",
+    "brand": "Bata",
+    "products": ["Rainwear", "Sandals"],
+    "discount": "Up to 60%",
+    "conditions": "Online only",
+    "expiry": "2025-07-20",
+    "promotion_channel": ["Facebook", "App"]
+  },
+  {
+    "title": "Student Laptop Discount",
+    "description": "Exclusive ₹5,000 off for students on HP laptops",
+    "brand": "HP",
+    "products": ["Laptops"],
+    "discount": "₹5,000 off",
+    "conditions": "Student ID required",
+    "expiry": "2025-08-01",
+    "promotion_channel": ["Email", "Campus Program"]
+  },
+  {
+    "title": "Buy 2 Get 1 on Chocolates",
+    "description": "Celebrate with Cadbury — Buy 2 and get 1 free",
+    "brand": "Cadbury",
+    "products": ["Chocolates", "Sweets"],
+    "discount": "Buy 2 Get 1",
+    "conditions": "Retail stores only",
+    "expiry": "2025-06-30",
+    "promotion_channel": ["WhatsApp", "Print Ads"]
+  },
+  {
+    "title": "Fitness Fest: Flat 30%",
+    "description": "Flat 30% off on all sports nutrition",
+    "brand": "HealthKart",
+    "products": ["Protein", "Supplements"],
+    "discount": "Flat 30%",
+    "conditions": "App exclusive",
+    "expiry": "2025-06-28",
+    "promotion_channel": ["App", "Email"]
+  },
+  {
+    "title": "Flat ₹100 Cashback",
+    "description": "Pay via PhonePe and get ₹100 cashback",
+    "brand": "PhonePe",
+    "products": ["Payments"],
+    "discount": "₹100 Cashback",
+    "conditions": "Minimum transaction ₹500",
+    "expiry": "2025-06-18",
+    "promotion_channel": ["Push Notification", "App"]
+  },
+  {
+    "title": "Pet Essentials Mega Sale",
+    "description": "Upto 45% off on dog food and accessories",
+    "brand": "Heads Up For Tails",
+    "products": ["Pet Food", "Accessories"],
+    "discount": "Up to 45%",
+    "conditions": "No code required",
+    "expiry": "2025-07-05",
+    "promotion_channel": ["Instagram", "App"]
+  },
+  {
+    "title": "Snapdeal Fashion Days",
+    "description": "30–70% off on ethnic wear and accessories",
+    "brand": "Snapdeal",
+    "products": ["Ethnic Wear", "Handbags"],
+    "discount": "30–70% off",
+    "conditions": "Select sellers only",
+    "expiry": "2025-07-08",
+    "promotion_channel": ["Facebook", "Email"]
+  },
+  {
+    "title": "Free Data with Recharge",
+    "description": "Get 2GB extra data on ₹299 plan",
+    "brand": "Jio",
+    "products": ["Mobile Recharge"],
+    "discount": "2GB Bonus",
+    "conditions": "Prepaid users only",
+    "expiry": "2025-06-22",
+    "promotion_channel": ["SMS", "MyJio App"]
+  },
+  {
+    "title": "Early Bird Hotel Deal",
+    "description": "Book in advance and save 35%",
+    "brand": "OYO",
+    "products": ["Hotels"],
+    "discount": "35% off",
+    "conditions": "7 days prior booking",
+    "expiry": "2025-08-15",
+    "promotion_channel": ["Email", "App"]
+  },
+  {
+    "title": "Furniture Flash Sale",
+    "description": "Up to 50% off on living room furniture",
+    "brand": "Pepperfry",
+    "products": ["Sofas", "Chairs"],
+    "discount": "Up to 50%",
+    "conditions": "First 500 users daily",
+    "expiry": "2025-06-29",
+    "promotion_channel": ["YouTube", "Google Ads"]
+  }
+]
